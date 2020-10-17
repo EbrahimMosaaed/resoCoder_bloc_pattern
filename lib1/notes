@@ -1,0 +1,6 @@
+ BLOC : busines logic component
+       sprate the state from the ui ... Events => Bloc =>  State
+      Events (Action ex: user input )
+      
+-Events file
+-Bloc file : contine streamContoller which has sink(input be as privete in the class) and stream (output be as public to use in all widgets)
